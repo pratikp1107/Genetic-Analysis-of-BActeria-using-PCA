@@ -1,6 +1,6 @@
 # Genetic-Analysis-of-Bacteria-using-PCA
 *Numerical Methods of Data Science Project*
-##Description:
+## Description:
 Bacteria is a unicellular, microscopic organisms which survive in huge numbers, approximately millions.
 Few of these bacteria are harmful but majority of them are useful to human lives and the environment. These organisms have been found to be the first living thing on the planet for around 4 billion years ago. They support many life forms on earth including humans, plants and animals. 
 
